@@ -1,9 +1,4 @@
 """
-    Assignment 3
-    Matthew Doyle
-    301322233
-    mwdoyle@sfu.ca
-    
     A program so play tic-tac-toe against an AI which uses pure monte-carlo-tree search (MCTS)
 """
 
