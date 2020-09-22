@@ -1,5 +1,5 @@
 """
-    A program so play tic-tac-toe against an AI which uses pure monte-carlo-tree search (MCTS)
+    A program to play tic-tac-toe against an AI which uses pure monte-carlo-tree search (MCTS)
 """
 
 import random
